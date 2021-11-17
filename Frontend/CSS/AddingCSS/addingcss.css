@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(216, 170, 102) ;
+    /* border-color: pink;
+    border-width: 5px;
+    border-style: groove; */
+    border: 5px groove pink;
+}
+
+h4 {
+    color:blue;
+    background: yellow;
+}
+
+body {
+    background: url(https://secure.img1-fg.wfcdn.com/im/98625510/compr-r85/5896/58965782/mccoppin-removable-nursery-peony-watercolor-flowers-417-l-x-75-w-wall-mural.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

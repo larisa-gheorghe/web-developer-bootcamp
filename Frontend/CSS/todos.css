@@ -1,0 +1,17 @@
+body {
+    background: url(https://secure.img1-fg.wfcdn.com/im/98625510/compr-r85/5896/58965782/mccoppin-removable-nursery-peony-watercolor-flowers-417-l-x-75-w-wall-mural.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li {
+    border: 2px solid red;
+}
+
+#special {
+    background-color: #739248;
+}
+
+.done {
+    text-decoration: line-through;
+}
